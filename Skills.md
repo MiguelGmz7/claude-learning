@@ -10,3 +10,4 @@ There are two categories of Skills you'll encounter:
 - **Custom Skills** are ones you or your organization create for specialized workflows and domain-specific tasks. For example, you might create a skill that applies your company's brand guidelines to presentations, structures meeting notes in a specific format, or executes your organization's data analysis workflows.
 
 # Creation of skills in claude code 
+![[Pasted image 20260809143603.png]]

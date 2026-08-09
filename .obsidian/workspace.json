@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f6cba0ac30d69be7",
@@ -192,6 +191,7 @@
   },
   "active": "87de657112f15215",
   "lastOpenFiles": [
+    "Pasted image 20260809143603.png",
     "Connecting your tools.md",
     "Artifacts.md",
     "Skills.md",
