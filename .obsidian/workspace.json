@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,10 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81375c2207a8f31b",
+  "active": "ef889bd2921bd9ce",
   "lastOpenFiles": [
-    "Artifacts.md",
     "Skills.md",
+    "Artifacts.md",
     "Projects.md",
     "AI Fluency.md",
     "desktop.ini",
