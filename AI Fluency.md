@@ -9,4 +9,13 @@
 
 # How can know Claude is actually good at this particular task? 
 
-For this question we need Discernment, we are going to use evals (*shorter for evaluations*) to test 
+For this question we need Discernment, we are going to use evals (*shorter for evaluations*) to test and improve claude outputs
+
+You don't need complex infrastructure to evaluate Claude. Here's a practical approach:
+
+1. **Gather examples.** Collect 5-10 examples of a task you do regularly—emails you've written, reports you've created, analyses you've done.
+2. **Create test prompts.** Write prompts that would generate similar outputs. Include the context you'd naturally have when doing this work.
+3. **Compare outputs.** Run your prompts and compare Claude's responses to your examples. Ask yourself:
+    - Does Claude capture the key information?
+    - Is the tone and style appropriate?
+    - What's missing or could be improved?
