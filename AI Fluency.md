@@ -1,3 +1,4 @@
+#claude101
 **AI Fluency** is the ability to collaborate effectively with AI tools this is the 4D Framework that can help anyone have better interactions with AI: 
 - **Delegation**: Deciding on what work should be done by humans, what work should be done by AI, and how to distribute tasks between them
 
@@ -19,3 +20,4 @@ You don't need complex infrastructure to evaluate Claude. Here's a practical app
     - Does Claude capture the key information?
     - Is the tone and style appropriate?
     - What's missing or could be improved?
+    - 

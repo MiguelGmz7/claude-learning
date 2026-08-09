@@ -1,3 +1,4 @@
+#claude101 
 Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Think of them as expertise packages—they teach Claude how to complete specific tasks in a repeatable way.
 
 ### Types of Skills
