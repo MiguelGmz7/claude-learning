@@ -1,1 +1,1 @@
-**AI Fluency** is the ability to collaborate efec
+**AI Fluency** is the ability to collaborate effectively with AI tools 
