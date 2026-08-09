@@ -1,1 +1,1 @@
-Projects are a workspace where you can add files, instructions and 
+Projects are a workspace where you can add files, instructions and include other's 
