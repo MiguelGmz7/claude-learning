@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research.md",
+                "file": "AI Fluency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research"
+              "title": "AI Fluency"
             }
           }
         ],
@@ -206,8 +206,8 @@
   },
   "active": "b6e6df16e06b79a9",
   "lastOpenFiles": [
-    "Connecting your tools.md",
     "Research.md",
+    "Connecting your tools.md",
     "Skills.md",
     "Pasted image 20260809143603.png",
     "Artifacts.md",

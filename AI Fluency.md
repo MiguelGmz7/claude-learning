@@ -20,4 +20,3 @@ You don't need complex infrastructure to evaluate Claude. Here's a practical app
     - Does Claude capture the key information?
     - Is the tone and style appropriate?
     - What's missing or could be improved?
-    - 
