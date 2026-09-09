@@ -1,2 +1,2 @@
 # A2A
-Allow to connect agents of different agents 
+Allow to connect agents of different contexts 
